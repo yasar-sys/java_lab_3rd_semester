@@ -66,5 +66,6 @@ public class linear_queue_practice
         q1.display();
 
 
+
     }
 }
